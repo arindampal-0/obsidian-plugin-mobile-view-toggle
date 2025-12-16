@@ -3,7 +3,7 @@
 	"name": "Mobile View Toggle",
 	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Adds a Mobile View Toggle in the sidebar for developers",
+	"description": "Adds a ribbon icon for mobile view toggle for developers",
 	"author": "Arindam Pal",
 	"authorUrl": "https://arindampal-0.github.io",
 	"isDesktopOnly": false

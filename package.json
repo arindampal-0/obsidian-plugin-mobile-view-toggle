@@ -1,7 +1,7 @@
 {
 	"name": "mobile-view-toggle",
 	"version": "0.1.0",
-	"description": "Adds a mobile view toggle to side bar",
+	"description": "Adds a ribbon icon for mobile view toggle for developers",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
